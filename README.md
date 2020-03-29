@@ -13,7 +13,6 @@ For a better visual understanding please take a look at the following screenshot
 
 ### Screenshots
 ![](img/1.png)
-<br>
 ![](img/2.png)
 
 
